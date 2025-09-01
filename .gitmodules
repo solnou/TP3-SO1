@@ -1,0 +1,3 @@
+[submodule "lib/shell_tp2"]
+	path = lib/shell_tp2
+	url = https://github.com/solnou/tp2_sol_so1
